@@ -25,7 +25,7 @@ export const aboutData = {
   paragraphThree:
     "Skills: HTML3, CSS3, jQuery, Gatsby, Bootstrap, Gatsby, Firebase, JavaScript, React.js, Angular, Express.js, Handlebars, Node.js, MongoDB, SQL, and API Integration ",
   resume:
-    "https://drive.google.com/file/d/1xFwNa40E6CTMJdkIDdSu1sPjqI8SmsHZ/view?usp=sharing", // if no resume, the button will not show up
+    "https://drive.google.com/file/d/1VRRDR0nv7ZjyBs6DdnXg8Ne5Eq1Uwp7h/view?usp=sharing", // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
